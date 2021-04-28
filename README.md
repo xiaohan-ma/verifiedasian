@@ -1,7 +1,8 @@
 <img src="https://user-images.githubusercontent.com/63564199/116444104-4c899d00-a84c-11eb-92af-0612c604d53d.png" width="200" height="150" /> 
 
-# 👋 Hello, I'm Xiaohan.
-### (pronounced as "Show-han")
+# 👋 Hello, I'm Xiaohan
+
+#### My name is pronounced as "Show-han".
 
 #### 🌱 Currently teaching myself the MERN stack having completed projects using Vanilla Javascript.
 I have experience in:
@@ -13,7 +14,7 @@ I have experience in:
 
 #### 👀 Currently, I am learning a variety of computer science concepts and areas in order to gain broader knowledge regarding the industry. For example, computer networking concepts, cybersecurity and algorithms.
 
-#### 📚 I love, love, love reading and learning new information. From theoretical physics to how society was symbolised as a theatrical play in the Duchess of Malfi, I believe that any knowledge is never useless.
+#### 📚 I love, love, love reading and learning new information. From theoretical physics to how society was symbolised as a theatrical play in the Duchess of Malfi, there are always new things to learn about.
 
 
 #### 📫 My email address is xiaohanma99@hotmail.com
