@@ -12,7 +12,7 @@ I have experience in:
 - HTML
 - CSS
 
-#### 👀 Currently, I am learning a variety of computer science concepts and areas in order to gain broader knowledge regarding the industry. For example, computer networking concepts, cybersecurity and algorithms.
+#### 👀 Alongside learning programming I am also educating myself on a variety of computer science concepts and areas in order to gain broader knowledge regarding the industry. For example, computer networking concepts, cybersecurity and algorithms.
 
 #### 📚 I love, love, love reading and learning new information. From theoretical physics to how society was symbolised as a theatrical play in the Duchess of Malfi, there are always new things to learn about.
 
